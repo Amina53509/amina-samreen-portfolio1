@@ -27,10 +27,8 @@ I thrive on solving real-world problems using data, code, and creativity. Whethe
 
 - Generative AI tools and workflows  
 - Building recruiter-ready portfolio websites  
-- Real-world data projects with storytelling impact  
-
-
-
----
+- Real-world data projects with storytelling impact
+  Website Link:
+https://sites.google.com/view/codewithamina/home
 
 > “Learn. Build. Innovate.” — That’s the mantra behind CodeWithAmina.
